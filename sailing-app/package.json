@@ -22,6 +22,7 @@
 	},
 	"dependencies": {
 		"@maptiler/sdk": "^3.0.1",
+		"@turf/turf": "^7.2.0",
 		"cookie": "^1.0.2",
 		"leaflet": "^1.9.4",
 		"mapbox-gl": "^3.10.0",
